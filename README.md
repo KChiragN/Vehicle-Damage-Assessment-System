@@ -25,7 +25,7 @@ open in localhost
 # output
 ![Screenshot  (1)](https://github.com/KChiragN/Vehicle-Damage-Assessment-System/blob/main/Screenshot%20%20(1).png)
 ![Screenshot  (2)](https://github.com/KChiragN/Vehicle-Damage-Assessment-System/blob/main/Screenshot%20%20(2).png)
-![Screenshot  (3)](https://github.com/Dhanushpoojary/Vehicle-Damage-Assessment-System/assets/114282436/67bbcbb5-be8e-4d70-949f-df64ad709a02)
+![Screenshot  (3)](https://github.com/KChiragN/Vehicle-Damage-Assessment-System/blob/main/Screenshot%20%20(3).png)
 # Types of output
 YOLOv5 will return image if damaged with bounding boxes namely of 4 possibilities 
 - Scratch
