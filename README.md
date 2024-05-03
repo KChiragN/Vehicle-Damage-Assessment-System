@@ -22,7 +22,7 @@ python flask_app.py
 open in localhost
 ```
 
-# output
+# Output
 ![Screenshot  (1)](https://github.com/KChiragN/Vehicle-Damage-Assessment-System/blob/main/Screenshot%20%20(1).png)
 ![Screenshot  (2)](https://github.com/KChiragN/Vehicle-Damage-Assessment-System/blob/main/Screenshot%20%20(2).png)
 ![Screenshot  (3)](https://github.com/KChiragN/Vehicle-Damage-Assessment-System/blob/main/Screenshot%20%20(3).png)
