@@ -16,7 +16,7 @@ This project aims to automate the process of vehicle damage assessment by detect
 
 # How to run this code
 ```
-git clone https://github.com/Dhanushpoojary/Vehicle-Damage-Assessment-System
+git clone https://github.com/KChiragN/Vehicle-Damage-Assessment-System
 cd Vehicle-Damage-Assessment-System
 python flask_app.py
 open in localhost
