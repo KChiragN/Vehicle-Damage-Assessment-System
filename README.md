@@ -23,7 +23,7 @@ open in localhost
 ```
 
 # output
-![Screenshot  (1)](https://github.com/Dhanushpoojary/Vehicle-Damage-Assessment-System/assets/114282436/c74445be-ba42-483f-853c-fade007dbb8e)
+![Screenshot  (1)](https://github.com/KChiragN/Vehicle-Damage-Assessment-System/blob/main/Screenshot%20%20(1).png)
 ![Screenshot  (2)](https://github.com/Dhanushpoojary/Vehicle-Damage-Assessment-System/assets/114282436/07bc070e-8d1b-4175-82ca-727e910ddd2f)
 ![Screenshot  (3)](https://github.com/Dhanushpoojary/Vehicle-Damage-Assessment-System/assets/114282436/67bbcbb5-be8e-4d70-949f-df64ad709a02)
 # Types of output
