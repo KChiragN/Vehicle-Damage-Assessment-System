@@ -1,5 +1,5 @@
 # Project Name
-Vehicle Damage Assessment
+Vehicle Damage Assessment System
 
 # Purpose
 This project aims to automate the process of vehicle damage assessment by detecting damages and providing estimated repair costs, streamlining insurance claims and repair procedures for vehicle owners and insurance companies.
